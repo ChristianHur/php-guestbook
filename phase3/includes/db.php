@@ -4,7 +4,7 @@ define('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');
 define('DB', 'hurc_guestbook');
-define('TABLE_GUEST', 'guests2');
+define('TABLE_GUEST', 'guests');
 define('TABLE_USERS', 'users');
 
 class DB
